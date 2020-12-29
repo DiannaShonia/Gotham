@@ -1,2 +1,4 @@
 # Gotham
-News' website (HTML, CSS, FLEXBOX)
+News' website build up with HTML, CSS  (Flexbox)
+
+Visit demo link here: https://diannashonia.github.io/Gotham/
